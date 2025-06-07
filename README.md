@@ -8,7 +8,7 @@ This repository contains my solutions to the Week 1 JavaScript Code Challenge fo
 - To run, open each `.js` file in the browser (using an HTML wrapper) or run in the console.
 
 ## Author
-- Name: [Your Name]
+- Name: Clinton Mwangi
 
 ## License
 This project is licensed under the MIT License.
